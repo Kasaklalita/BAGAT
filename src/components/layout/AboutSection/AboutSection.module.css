@@ -17,34 +17,6 @@
     gap: 35px;
 }
 
-.title {
-    font-family: 'Montserrat', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 120%;
-    color: #333333;
-}
-
 .right {
     width: 50%;
-}
-
-.description {
-    font-family: 'Montserrat', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 130%;
-    color: #333333;
-}
-
-.highlightedDescription {
-    font-family: 'Montserrat', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 130%;
-    color: #DC0C1C;
-
 }

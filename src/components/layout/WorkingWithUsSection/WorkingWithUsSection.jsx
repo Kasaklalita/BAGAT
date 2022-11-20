@@ -8,6 +8,9 @@ const WorkingWithUsSection = () => {
       <h1 className={cl.title}>
         BAGAT — экспедиторская компания с собственным перегрузочным терминалом
       </h1>
+      <div className={cl.descriptionContainer}>
+        <div className={cl.left}></div>
+      </div>
     </ContentSection>
   );
 };
