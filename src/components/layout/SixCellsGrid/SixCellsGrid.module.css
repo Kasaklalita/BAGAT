@@ -1,0 +1,7 @@
+.sixCellsGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    column-gap: 36px;
+    row-gap: 55px;
+}

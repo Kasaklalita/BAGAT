@@ -1,13 +1,32 @@
-.title {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 120%;
-    color: #333333;
-    width: 40%;
+.titleContainer {
+    margin-bottom: 50px;
 }
 
 .descriptionContainer {
     display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.left {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.right {
+    width: 50%;
+}
+
+.grid {
+    margin-bottom: 100px;
+}
+
+.ourServices {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 67px;
+    margin-bottom: 35px;
 }

@@ -1,0 +1,29 @@
+.ourService {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.number {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 120%;
+    color: #DC0C1C;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    color: #333333;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 135%;
+    color: #333333;
+}

@@ -1,0 +1,28 @@
+.prosItem {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 120%;
+    color: #DC0C1C;
+}
+
+.description {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+    color: #333333;
+}
+
+.splitter {
+    height: 1px;
+    width: 100%;
+    background: #B0B0B0;
+}
