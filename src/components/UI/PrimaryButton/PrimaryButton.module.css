@@ -1,0 +1,11 @@
+.primaryButton {
+    width: 300px;
+    height: 55px;
+    background: red;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120%;
+    color: #FFFFFF;
+}
