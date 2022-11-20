@@ -12,7 +12,9 @@ function App() {
       <Navbar />
       <GreetingsSection />
       <AboutSection />
-      <WorkingWithUsSection />
+      <div style={{ background: "#F6F6F6" }}>
+        <WorkingWithUsSection />
+      </div>
     </div>
   );
 }
