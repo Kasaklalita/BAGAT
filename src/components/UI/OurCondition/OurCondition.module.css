@@ -1,0 +1,20 @@
+.ourCondition {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background: #DC0C1C;
+}
+
+.description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 135%;
+    color: #333333;
+}

@@ -6,6 +6,7 @@ import ContentSection from "./components/layout/ContentSection/ContentSection";
 import AboutSection from "./components/layout/AboutSection/AboutSection";
 import WorkingWithUsSection from "./components/layout/WorkingWithUsSection/WorkingWithUsSection";
 import DirectionsSection from "./components/layout/DirectionsSection/DirectionsSection.jsx";
+import OurAdvantagesSection from "./components/layout/OurAdvantagesSection/OurAdvantagesSection.jsx";
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         <WorkingWithUsSection />
       </div>
       <DirectionsSection></DirectionsSection>
+      <div style={{ background: "#F6F6F6" }}>
+        <OurAdvantagesSection />
+      </div>
     </div>
   );
 }
