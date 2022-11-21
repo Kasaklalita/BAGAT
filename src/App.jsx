@@ -5,6 +5,7 @@ import GreetingsSection from "./components/layout/GreetingsSection/GreetingsSect
 import ContentSection from "./components/layout/ContentSection/ContentSection";
 import AboutSection from "./components/layout/AboutSection/AboutSection";
 import WorkingWithUsSection from "./components/layout/WorkingWithUsSection/WorkingWithUsSection";
+import DirectionsSection from "./components/layout/DirectionsSection/DirectionsSection.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <div style={{ background: "#F6F6F6" }}>
         <WorkingWithUsSection />
       </div>
+      <DirectionsSection></DirectionsSection>
     </div>
   );
 }
